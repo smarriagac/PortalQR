@@ -50,6 +50,6 @@
     "qwik": "qwik"
   },
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/@smarriagac" 
+    "registry": "https://npm.pkg.github.com" 
   },
 }
