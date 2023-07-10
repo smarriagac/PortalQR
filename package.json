@@ -1,5 +1,5 @@
 {
-  "name": "@bot-whatsapp/portal",
+  "name": "@smarriagac/portal",
   "version": "0.0.5",
   "description": "Portal WEB para escanear QR",
   "main": "./lib/portal.http.cjs",
@@ -50,6 +50,6 @@
     "qwik": "qwik"
   },
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com" 
+    "registry": "https://npm.pkg.github.com/" 
   },
 }
